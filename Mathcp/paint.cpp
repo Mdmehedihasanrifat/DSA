@@ -10,6 +10,7 @@ void solve(){
             cin>>arr[i];
         }
         unordered_map<int,int>mp;
+      
         
         bool yes=true;
         
@@ -40,14 +41,14 @@ void solve(){
 }
  
 int main(){
-    
+    cout<<"Enter the number of test cases"<<endl; 
     int t;
     cin>>t;
     
     while(t--){
         solve();
-        
     }
+
     
     
 }
