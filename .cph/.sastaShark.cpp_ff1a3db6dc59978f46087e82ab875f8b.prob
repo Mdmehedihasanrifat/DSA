@@ -1,0 +1,1 @@
+{"name":"Local: sastaShark","url":"d:\\c++\\sastaShark.cpp","tests":[{"id":1650656537975,"input":"3\n100 200\n200 100\n100 400","output":"ANY\nFIRST\nSECOND"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\sastaShark.cpp","group":"local","local":true}

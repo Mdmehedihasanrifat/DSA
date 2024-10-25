@@ -1,0 +1,1 @@
+{"name":"Local: sumofDigits","url":"d:\\c++\\sumofDigits.cpp","tests":[{"id":1648288014405,"input":"2\n22\n23","output":"4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\sumofDigits.cpp","group":"local","local":true}

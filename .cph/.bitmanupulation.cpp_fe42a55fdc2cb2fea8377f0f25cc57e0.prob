@@ -1,0 +1,1 @@
+{"name":"Local: bitmanupulation","url":"e:\\c++\\bitmanupulation.cpp","tests":[{"id":1679502531474,"input":"3\n4 7 4 8\n5 1 8 2\n3 2 4 3","output":"1\n2\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++\\bitmanupulation.cpp","group":"local","local":true}

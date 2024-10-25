@@ -1,0 +1,1 @@
+{"name":"Local: cooler","url":"e:\\c++\\cooler.cpp","tests":[{"id":1680104515459,"input":"3\n6\naaabbb\n7\nabbbbbc\n4\nabcd","output":"ab\nabc\nabcd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++\\cooler.cpp","group":"local","local":true}

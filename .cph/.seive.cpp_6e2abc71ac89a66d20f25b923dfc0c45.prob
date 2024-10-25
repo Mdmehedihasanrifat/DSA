@@ -1,0 +1,1 @@
+{"name":"Local: seive","url":"d:\\c++\\seive.cpp","tests":[{"id":1644766531151,"input":"5","output":"2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\seive.cpp","group":"local","local":true}
