@@ -1,0 +1,1 @@
+{"name":"Local: basic","url":"e:\\c++\\graph\\basic.cpp","tests":[{"id":1732955675807,"input":"2\n4\n3 -4 5\n11\n-30 12 -57 7 0 -81 -68 41 -89 0\n","output":"-4\n265\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++\\graph\\basic.cpp","group":"local","local":true}
